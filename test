@@ -1,7 +1,7 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/test2/refs/heads/main/test2"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake1/refs/heads/main/test"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake2/refs/heads/main/test"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake3/refs/heads/main/test"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake4/refs/heads/main/test"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake5/refs/heads/main/test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/test2/refs/heads/main/test2"))()
 
