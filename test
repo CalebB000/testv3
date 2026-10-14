@@ -1,2 +1,6 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/1d6a9f3c8b2e7054a0c6d8f1b9e24735.lua"))()
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/3a560b96d6cc4fd78cdf04e5ddd57f1d.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake1/refs/heads/main/test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake2/refs/heads/main/test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake3/refs/heads/main/test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake4/refs/heads/main/test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/fake5/refs/heads/main/test"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CalebB000/test2/refs/heads/main/test2"))()
